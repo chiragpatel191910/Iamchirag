@@ -23,7 +23,7 @@
 }
 
 .portfolio__item-image>img {
-    height: 250px;
+    height: 230px;
     /* width: 350px;  =============== Better Way is to download image which is already small dont make it forcefully small ================ */
 }
 

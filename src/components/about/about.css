@@ -82,12 +82,18 @@
         margin: 1rem 0 1.5rem;
     }
     
+    #about{
+        margin-top: 3rem;
+    }
 }
 
 /* =============== MEDIA QUERIES (SMALL DEVICES) ============= */
 
 @media screen and (max-width:600px){
 
+    #about{
+        margin-top: 2rem;
+    }
     
     .about__me{
         width: 75%;

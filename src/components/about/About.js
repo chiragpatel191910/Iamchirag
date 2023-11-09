@@ -7,7 +7,7 @@ import { CgWebsite } from 'react-icons/cg';
 function About() {
 
     return (
-        <section id='about'>
+        <section id='about' >
             <h5>Get to khow</h5>
             <h2>About Me</h2>
 
