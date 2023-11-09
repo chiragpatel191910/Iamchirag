@@ -66,6 +66,8 @@
     text-align: justify;
 }
 
+/* =============== MEDIA QUERIES (MEDIUM DEVICES) ============= */
+
 @media screen and (max-width:1024px){
     .about__container{
         display: grid;
@@ -97,7 +99,7 @@
     
     .about__me{
         width: 75%;
-        margin: 0 auto 3rem;
+        margin: 3rem auto 5rem;
     }
     
     .about__cards{
