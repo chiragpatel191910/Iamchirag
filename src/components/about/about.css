@@ -99,7 +99,7 @@
     
     .about__me{
         width: 75%;
-        margin: 3rem auto 5rem;
+        margin: 3rem auto 5rem; /*Updated*/
     }
     
     .about__cards{
