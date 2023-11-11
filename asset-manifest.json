@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Iamchirag/static/css/main.a3f00046.css",
+    "main.css": "/Iamchirag/static/css/main.404c203e.css",
     "main.js": "/Iamchirag/static/js/main.baf431bd.js",
     "static/media/CHIRAG_CV.pdf": "/Iamchirag/static/media/CHIRAG_CV.82b1ec4c6dd9b484e13e.pdf",
     "static/media/me-about.png": "/Iamchirag/static/media/me-about.817da528f4677f6d702b.png",
@@ -8,11 +8,11 @@
     "static/media/portfolio1.png": "/Iamchirag/static/media/portfolio1.d575efcd3c1730c79688.png",
     "static/media/portfolio2.jpg": "/Iamchirag/static/media/portfolio2.c85e57c6ac10a5659215.jpg",
     "index.html": "/Iamchirag/index.html",
-    "main.a3f00046.css.map": "/Iamchirag/static/css/main.a3f00046.css.map",
+    "main.404c203e.css.map": "/Iamchirag/static/css/main.404c203e.css.map",
     "main.baf431bd.js.map": "/Iamchirag/static/js/main.baf431bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3f00046.css",
+    "static/css/main.404c203e.css",
     "static/js/main.baf431bd.js"
   ]
 }
