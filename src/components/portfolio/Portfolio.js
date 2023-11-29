@@ -9,8 +9,8 @@ import IMG2 from '../../assets/portfolio2.jpg';
 const data = [
     {
         id: 1,
-        image: IMG1,
-        title: 'First Project | Using HTML & CSS',
+        image: IMG2,
+        title: 'Under Development',
         github: 'https://github.com/chiragpatel191910?tab=repositories',
         demo: 'https://chiragpatel191910.github.io/Mymobile.com/'
     }
